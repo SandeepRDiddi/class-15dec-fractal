@@ -1,3 +1,1 @@
-print("Cherry pick task commit 1")
-
-print("Cherry pick task commit 2")
+print("Cherry pick task commit 3")
